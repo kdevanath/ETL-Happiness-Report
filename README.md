@@ -1,4 +1,4 @@
-<h1 align ="center"><span>ETL Happiness Report</span><br>A project comparing income to happiness</br></h1>
+<h1 align ="center"><span>ETL Happiness Report</span><br>A Project Comparing Income to Happiness</br></h1>
 <h6 align ="center"><span>By Irina Yeager, Kiran Devanath, and Leslie Vazquez</span></h6>
 
 ### *Project Description/Outline*
